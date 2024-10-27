@@ -145,7 +145,7 @@ function ToDoList() {
 
   return (
     <div className="container w-25">
-      <h1 className="text-center">Taylor's To-Dos</h1>
+      <h1 className="text-center">Taylor's To-Do List</h1>
       <div className="card">
         <form onSubmit={handleSubmit}>
           <div className="input-group m-0 p-0">
